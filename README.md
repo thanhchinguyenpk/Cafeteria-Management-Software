@@ -4,13 +4,13 @@
 *A simple solution for managing your fastfood/cafeteria or even bigger, a franchise.*
 
 
-> ## Introduction
+> ## Introduction ố là là la AHAHA
 
 This software is based on mySQL database and WPF.  
 
 It can provide a flexible and simple solution for any types of cafeteria or fastfood stores you are operating.  
 
-> ## Features
+> ## Features ố là la
 
 - Easily add new food, beverage and modify them.  
 - Customer' placed orders can vary, depend on their interests. 
